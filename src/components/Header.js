@@ -6,7 +6,7 @@ function Header() {
   const [burgerStatus, setBurgerStatus] = useState(false);
   return (
     <Container>
-      <a>
+      <a href="#">
         <img src="/images/logo.svg" alt="Tesla Logo" />
       </a>
       <Menu>
